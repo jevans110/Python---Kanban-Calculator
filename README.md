@@ -3,7 +3,7 @@
  ### [YouTube Demonstration]()
 
 <h2>Description</h2>
-Project <br />
+Simple application I built to help manage my WIP product at work. The buffer value represents the amount of WIP that is allowed to be in production at the end of the week. The total WIP is how much is currently in production and the Pieces Finishing This Week are how many pieces will leave the buffer. The value being calculated is how many WIP pieces I can enter into WIP this week to prevent exceeding my buffer limit. <br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -19,32 +19,19 @@ Project <br />
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the application: <br/>
+<img src="https://imgur.com/a/YRsMudO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Entering values and calculating:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adjusting the buffer: <br/>
+<img src="https://imgur.com/a/actSp5X" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
