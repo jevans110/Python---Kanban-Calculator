@@ -9,7 +9,7 @@ Project <br />
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>PyGame</b>
+- <b>TKinter</b> 
 
 <h2>Environments Used </h2>
 
