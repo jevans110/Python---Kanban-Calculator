@@ -1,6 +1,8 @@
 <h1>Kanban Calculator</h1>
 
+<!---
  ### [YouTube Demonstration]()
+--!>
 
 <h2>Description</h2>
 Simple application I built to help manage my WIP product at work. The buffer value represents the amount of WIP that is allowed to be in production at the end of the week. The total WIP is how much is currently in production and the Pieces Finishing This Week are how many pieces will leave the buffer. The value being calculated is how many WIP pieces I can enter into WIP this week to prevent exceeding my buffer limit. <br />
