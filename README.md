@@ -24,7 +24,7 @@ Launch the Application: <br/>
 <br />
 <br />
 Entering values and calculating:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Entering Values and Calculating"/>
+<img src="https://i.imgur.com/6jy8kVF.png" height="80%" width="80%" alt="Entering Values and Calculating"/>
 <br />
 <br />
 Adjusting the buffer: <br/>
