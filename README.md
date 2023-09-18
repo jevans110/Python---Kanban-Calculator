@@ -19,8 +19,8 @@ Simple application I built to help manage my WIP product at work. The buffer val
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the application: <br/>
-<img src="https://imgur.com/6ughzsU" height="80%" width="80%" alt="Launch the Application"/>
+Launch the Application: <br/>
+<img src="https://i.imgur.com/6ughzsU.png" height="80%" width="80%" alt="Launch the Application"/>
 <br />
 <br />
 Entering values and calculating:  <br/>
@@ -28,7 +28,7 @@ Entering values and calculating:  <br/>
 <br />
 <br />
 Adjusting the buffer: <br/>
-<img src="https://imgur.com/a/actSp5X" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/5ZCiYdr.png" height="80%" width="80%" alt="Adjusting the Buffer"/
 <br />
 <br />
 
