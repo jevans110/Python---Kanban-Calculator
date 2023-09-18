@@ -34,6 +34,24 @@ Adjusting the buffer: <br/>
 
 </p>
 
+<h2>Code walk-through:</h2>
+
+<p align="center">
+L: <br/>
+<img src="https://i.imgur.com/6ughzsU.png" height="80%" width="80%" alt="Launch the Application"/>
+<br />
+<br />
+E:  <br/>
+<img src="https://i.imgur.com/6jy8kVF.png" height="80%" width="80%" alt="Entering Values and Calculating"/>
+<br />
+<br />
+A: <br/>
+<img src="https://i.imgur.com/5ZCiYdr.png" height="80%" width="80%" alt="Adjusting the Buffer"/
+<br />
+<br />
+
+</p>
+
 <!--
  ```diff
 - text in red
